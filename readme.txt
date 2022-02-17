@@ -1,7 +1,8 @@
 /* *****************************************************************************
- *  Name:     
- *  NetID:    
- *  Precept:  
+ * built in README from Princeton files
+ *  Name:    Shivani Manikandan 
+ *  NetID:     N/A
+ *  Precept:   N/A
  *
  *  Partner Name:    N/A
  *  Partner NetID:   N/A
